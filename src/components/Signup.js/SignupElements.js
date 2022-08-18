@@ -14,7 +14,7 @@ export const Container = styled.div`
     rgba(1, 14, 6, 1) 0%,
     rgba(10, 201, 122, 1) 100%
   );
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 601px) {
   }
 `;
 
